@@ -4,6 +4,14 @@ This class is a structured, collaborative study of advanced topics in Data Scien
 
 Class repository is maintained on [GitHub/MoreDataScience](https://github.com/MoreDataScience/CSCI499-Spring2019) and hosted on [MoreDataScience.github.io/CSCI499-Spring2019/](https://moredatascience.github.io/CSCI499-Spring2019/). 
 
+## Office Hours
+
+OCNL 220 11am - 3pm
+Or by appointment
+
+
+## Learning Modules
+
 | Topic | Activities | Due Date | Lead |
 | --- | --- | --- | --- |
 | Collaboration and Version Control with R projects | Create a GitHub repository for your project portfolio and make it [host a public site](https://pages.github.com/) that will include your code and [blog](https://bookdown.org/yihui/blogdown/) and review how to [maintain version control and collaborate](https://learngitbranching.js.org/) using Git. [Join](https://join.slack.com/t/moredatascience/shared_invite/enQtNTI4MjUyNjk2MjI2LTNlZTFiMzA2MzFhNDQ1NTJjZTViNWVlMTk0NGIxYTA1ZDkwMmY5YmVkMjFiMDk3ZTRkYjYzMGY0NmVkYTQ2ZWE) the [class slack channel](https://moredatascience.slack.com/) and use it for all out-of-class communication, including questions and when you need assistance. As a first entry for your blog, identify a [/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/) post that interests you and summarize a critique for it. As a first commit to your code, identify a research topic and edit your `README.md` to provide a brief expanation, including where you expect to find the source(s) of your data. Finally, submit a [Pull Request](https://help.github.com/articles/creating-a-pull-request/) to edit this document with the topic area you choose to lead and a link to your site. | February 8 | Kevin Buffardi |
