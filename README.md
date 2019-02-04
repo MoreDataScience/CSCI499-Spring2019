@@ -27,7 +27,7 @@ Or by appointment
 | Student | Project Porfolio Link |
 | *Name* | *[Topic repo](#)* |
 | --- | --- |
-| | |
+|Eisley Adoremos |TBD|
 | | |
 | | |
 | | |
