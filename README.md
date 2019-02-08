@@ -18,7 +18,7 @@ Or by appointment
 | Ethics and Data Science in Society | Resources: [Weapons of Math Destruction](https://chico-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01CALS_ALMA71420504090002901&context=L&vid=01CALS_CHI&lang=en_US&search_scope=Everything&adaptor=Local%20Search%20Engine&isFrbr=true&tab=everything&query=any,contains,weapons%20of%20math%20destruction&sortby=rank&mode=Basic) chapters 3, 6; Podcast: ["Science Vs - Gentrification: what's really happening"](https://www.gimletmedia.com/science-vs/gentrification-whats-really-happening). Add at least one blog entry to communicate your thoughts on ethics and societal impact of data science and how it applies to your topic. | February 15 | Grant Esparza |
 | Data Analytics Lifecycle | Resources: [R for Data Science](https://r4ds.had.co.nz/) chapters 4 and 8 | March 15 | Lizz Arriaza |
 | Regression models and Classification | Resources: [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) chapters 2-4 | March 29 | Eduardo Gomez |
-| Resampling and Tree based methods | Resources: [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) chapters 5, 8 | April 5 | *?* |
+| Resampling and Tree based methods | Resources: [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) chapters 5, 8 | April 5 | Jerry Tucay |
 | Information Visualization | Resources: [Edward Tufte keynote (video)](https://youtu.be/rHUDJ8RyseQ); The Schneiderman [Information Visualization Mantra (video)](https://www.coursera.org/lecture/datavisualization/4-1-2-the-information-visualization-mantra-part-1-BdRy4); [Learning Data Visualization (via Lynda)](https://www.lynda.com/Data-Science-tutorials/Learning-Data-Visualization-2019-Revision/5005071-2.html?org=csuchico.edu) chapter 5: Visual Dispay | April 19 | *?* |
 | Peer Review and Replication | With a peer, perform a [pull request review](https://help.github.com/articles/about-pull-request-reviews/) so they can verify that they can replicate, review, and critique your results | May 3 | Kevin Buffardi |
 
@@ -30,5 +30,5 @@ Or by appointment
 |Eduardo Gomez |[Crime in the United States](https://eduardoandgo.github.io) |
 |Grant Esparza|[Public Perception of Tech Companies Following Security Leaks](https://gesparza3.github.io)|
 |Lizz Arriaza| to be determined|
-| | |
+|Jerry Tucay |Sales Forecasting (https://JerryTucay.github.io) |
 | | |
