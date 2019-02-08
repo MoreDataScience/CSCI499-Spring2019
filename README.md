@@ -6,7 +6,7 @@ Class repository is maintained on [GitHub/MoreDataScience](https://github.com/Mo
 
 ## Office Hours
 
-OCNL 220 11am - 3pm
+OCNL 220 Tuesdays, 11am - 3pm
 Or by appointment
 
 
