@@ -19,7 +19,7 @@ Or by appointment
 | Data Analytics Lifecycle | Resources: [R for Data Science](https://r4ds.had.co.nz/) chapters 4 and 8 | March 15 | Lizz Arriaza |
 | Regression models and Classification | Resources: [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) chapters 2-4 | March 29 | Eduardo Gomez |
 | Resampling and Tree based methods | Resources: [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) chapters 5, 8 | April 5 | Jerry Tucay |
-| Information Visualization | Resources: [Edward Tufte keynote (video)](https://youtu.be/rHUDJ8RyseQ); The Schneiderman [Information Visualization Mantra (video)](https://www.coursera.org/lecture/datavisualization/4-1-2-the-information-visualization-mantra-part-1-BdRy4); [Learning Data Visualization (via Lynda)](https://www.lynda.com/Data-Science-tutorials/Learning-Data-Visualization-2019-Revision/5005071-2.html?org=csuchico.edu) chapter 5: Visual Dispay | April 19 | *?* |
+| Information Visualization | Resources: [Edward Tufte keynote (video)](https://youtu.be/rHUDJ8RyseQ); The Schneiderman [Information Visualization Mantra (video)](https://www.coursera.org/lecture/datavisualization/4-1-2-the-information-visualization-mantra-part-1-BdRy4); [Learning Data Visualization (via Lynda)](https://www.lynda.com/Data-Science-tutorials/Learning-Data-Visualization-2019-Revision/5005071-2.html?org=csuchico.edu) chapter 5: Visual Dispay | April 19 | Eisley Adoremos |
 | Peer Review and Replication | With a peer, perform a [pull request review](https://help.github.com/articles/about-pull-request-reviews/) so they can verify that they can replicate, review, and critique your results | May 3 | Kevin Buffardi |
 
 ## Projects
@@ -27,8 +27,8 @@ Or by appointment
 | Student | Project Porfolio Link |
 | *Name* | *[Topic repo](#)* |
 | --- | --- |
+|Eisley Adoremos|[How Much Better are NBA Players Today Compared to the Past?](https://eisleyadore.github.io/)|
 |Eduardo Gomez |[Crime in the United States](https://eduardoandgo.github.io) |
 |Grant Esparza|[Public Perception of Tech Companies Following Security Leaks](https://gesparza3.github.io)|
 |Lizz Arriaza| to be determined|
 |Jerry Tucay |Sales Forecasting (https://JerryTucay.github.io) |
-| | |
