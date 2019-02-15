@@ -31,4 +31,4 @@ Or by appointment
 |Eduardo Gomez |[Crime in the United States](https://eduardoandgo.github.io) |
 |Grant Esparza|[Public Perception of Tech Companies Following Security Leaks](https://gesparza3.github.io)|
 |Lizz Arriaza| to be determined|
-|Jerry Tucay |Sales Forecasting (https://JerryTucay.github.io) |
+|Jerry Tucay | [Sales Forecasting](https://JerryTucay.github.io) |
