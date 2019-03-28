@@ -30,5 +30,5 @@ Or by appointment
 |Eisley Adoremos|[How Much Better are NBA Players Today Compared to the Past?](https://eisleyadore.github.io/)|
 |Eduardo Gomez |[Crime in the United States](https://eduardoandgo.github.io) |
 |Grant Esparza|[Public Perception of Tech Companies Following Security Leaks](https://gesparza3.github.io)|
-|Lizz Arriaza| to be determined |
+|Lizz Arriaza| [World Travel] (https://laurala4.github.io) |
 |Jerry Tucay | [Sales Forecasting](https://JerryTucay.github.io) |
