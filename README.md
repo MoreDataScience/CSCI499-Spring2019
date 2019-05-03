@@ -1,5 +1,4 @@
-# CSCI499 Special Topics (Advanced Data Science)
-
+## Course Overview
 This class is a structured, collaborative study of advanced topics in Data Science. During the semester, students will apply the data analytics lifecycle to a research topic of their choosing. Students will select appropriate predictive analytical methods for their topics and evaluate its social and ethical implications. Individual work will complement peer collaboration as students explore issues of visualizing and communicating data to each other and to the public.
 
 Class repository is maintained on [GitHub/MoreDataScience](https://github.com/MoreDataScience/CSCI499-Spring2019) and hosted on [MoreDataScience.github.io/CSCI499-Spring2019/](https://moredatascience.github.io/CSCI499-Spring2019/).
